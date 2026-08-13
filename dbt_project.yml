@@ -1,0 +1,9 @@
+name: wizard_task7_qa_bridge_20260813214554_10163_app
+version: '1.0'
+config-version: 2
+
+profile: default
+
+model-paths: [models]
+target-path: target
+clean-targets: [target]
